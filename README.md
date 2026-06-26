@@ -37,7 +37,7 @@ A modern and responsive E-Commerce website designed for showcasing and selling s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Zayn-Abaya-Website.git
+git clone https://github.com/zainabk252007-04/Zayn-Abaya-Website.git
 ```
 
 2. Open the project folder.

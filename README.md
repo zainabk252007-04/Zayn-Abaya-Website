@@ -3,6 +3,10 @@
 
 A modern and responsive E-Commerce website designed for showcasing and selling stylish abayas and burkas. This project was developed using HTML, CSS, and JavaScript to provide an elegant and user-friendly shopping experience.
 
+## 🌐 Live Demo
+
+🔗 https://zainabk252007-04.github.io/Zayn-Abaya-Website/
+
 ## ✨ Features
 
 * Responsive design for desktop, tablet, and mobile devices
@@ -40,10 +44,17 @@ A modern and responsive E-Commerce website designed for showcasing and selling s
 git clone https://github.com/zainabk252007-04/Zayn-Abaya-Website.git
 ```
 
-2. Open the project folder.
+2. Navigate to the project folder:
 
-3. Run `index.html` in your browser.
-   
+```bash
+cd Zayn-Abaya-Website
+```
+
+3. Open `index.html` in your browser.
+
+## 🔗 Project Repository
+
+Repository Link: https://github.com/zainabk252007-04/Zayn-Abaya-Website
 
 ## 🎯 Future Enhancements
 
@@ -60,3 +71,4 @@ git clone https://github.com/zainabk252007-04/Zayn-Abaya-Website.git
 ## 📄 License
 
 This project is licensed under the MIT License.
+
